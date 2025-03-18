@@ -1,0 +1,21 @@
+= 1.12 (03 March 2025) =
+Tweaked: Moved Dashboard Tabs Manager menu to Settings > SC Dashboard Tabs.
+Fixed: Resolved issue with the "Select Image" button not functioning.
+
+= 1.11 (28 February 2025) =
+New: Added dynamic post type selector allowing users to choose from all registered public post types.
+Improvement: Enhanced content source field behavior so that the Post Type column remains in place (even when hidden) to avoid layout shifts.
+Tweaked: Updated UI to better distinguish between “page” and “shortcode/code” content types.
+
+= 1.1 (20 February 2025) =
+New: Integrated dynamic icon styling support by automatically assigning an icon name based on the uploaded icon URL.
+Fixed: Minor admin settings page bugs and improved media uploader functionality.
+
+= 1.01 (15 February 2025) =
+Tweaked: Refined admin interface for managing dashboard tabs.
+Improvement: Added option to hide the Post Type column when content type isn’t “page” to reduce user confusion.
+
+= 1.0 (10 February 2025) =
+New: Initial release of Surecart Dashboard Tabs Manager with full functionality for adding, editing, and removing custom dashboard tabs.
+New: Supported dynamic icon styling with media uploader integration.
+New: Provided dynamic content sourcing via page/post selection, shortcode processing, and PHP code execution.

@@ -1,0 +1,23 @@
+= 1.1.1 (19 December 2024) = 
+New: Added Redirect URL Option
+
+= 1.1 (17 December 2024) = 
+New: Added Confirmation Page option
+Tweaked: Separated out JS for faster development of new features
+New: Full Video & Audio Support
+
+= 1.0.4 (11 December 2024) = 
+Fixed: Resolved SDK Deprecation Notice
+
+= 1.0.3 (07 December 2024) =
+ New: Enabled variable to disable style sheet loading (define('RUP_RS4F_CUSTOMSTYLES', true))
+
+= 1.0.2 (29 November 2024) = I
+Improvement: Enhanced Admin functionality
+New: Added form selection dropdown
+New: Added Webhook note
+Updated: Included form name in existing hooks
+
+= 1.0.1 (28 November 2024) = 
+Tweaked: Updated SureForms JavaScript triggers
+Updated: Completed Licence Integration

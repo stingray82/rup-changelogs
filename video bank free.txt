@@ -1,0 +1,12 @@
+= 1.0.2 (15 March 2025) =
+Improvement: Auto Updating
+
+= 1.0.1 (10 March 2025) =
+New: Added Auto-Updating
+Fix: Importing
+
+
+= 1.0.0 (01 March 2025) =
+New: Added a Import Export
+New: Added Loom Support
+New: Inital Release

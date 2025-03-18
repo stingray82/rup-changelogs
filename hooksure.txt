@@ -1,0 +1,24 @@
+= 1.15 (March 2025) =
+Fixed: Readme Issues  
+
+= 1.14 =
+Tweaked: Readme File  
+New: Screenshot and Video Links  
+
+= 1.13 =
+New: Requires requirement for SureForms  
+
+= 1.12 =
+Fixed: Handle SureForms not being installed before installing HookSure gracefully  
+New: `wp-safe_redirect` on deletion to prevent loop of deletion of newly added hook to the same ID that was just deleted  
+
+= 1.11 =
+Fixed: Plugin Description issue  
+
+= 1.1 =
+New: dynamic form fetching to replace manual form ID entry  
+Improvement: admin interface for better usability  
+Improvement: compatibility with WordPress 6.4  
+
+= 1.0 =
+New:  Initial release  

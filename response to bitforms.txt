@@ -1,0 +1,17 @@
+= 1.1 (28 February 2025) = 
+New: Added Rest API Fixes
+Fixed: Resolved issues with other RUP Plugins
+Updated: Options updated
+
+= 1.0.2 (11 December 2024) = 
+Fixed: Resolved SDK Deprecation Notice
+
+= 1.0 (29 November 2024) = 
+Improvement: Enhanced Admin functionality
+New: Added Form Selection dropdown
+New: Added Webhook note
+Updated: Included form name in existing hooks
+Fixed: Resolved Licensing Issue
+
+= 0.5 (25 November 2024) = 
+New: Initial Release
