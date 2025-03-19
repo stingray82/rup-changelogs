@@ -1,0 +1,8 @@
+= 1.01 (20 March 2025) =
+New: Added Automatic Updates
+
+= 1.0 (19 March 2025) =
+New: Initial Release
+New: Filter CSS
+New: Filter Tag Colour
+New: Filter Secret Key
