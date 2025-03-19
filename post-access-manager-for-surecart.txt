@@ -1,0 +1,8 @@
+= 1.21 (March 2025) =
+Updated: Tidying Shared Functions with other RUP Plugins
+
+= 1.2 (March 2025) =
+Fixed: Update Manager Fixes
+
+= 1.19 (March 2025) =
+New: Initial Plugin Release
