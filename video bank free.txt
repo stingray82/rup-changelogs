@@ -1,3 +1,6 @@
+= 1.03 (21 March 2025) =
+Tweaked: Updater Settings
+
 = 1.0.2 (15 March 2025) =
 Improvement: Auto Updating
 

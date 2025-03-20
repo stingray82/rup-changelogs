@@ -1,6 +1,6 @@
 = 1.15 (March 2025) =
 Fixed: Readme Issues  
-
+Tweaked: Updater
 = 1.14 =
 Tweaked: Readme File  
 New: Screenshot and Video Links  

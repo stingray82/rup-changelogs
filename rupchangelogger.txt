@@ -1,3 +1,6 @@
+= 1.04 (21 March 2025) =
+Tweaked: Updater Settings
+
 = 1.03 (21 March 2025) =
 Tweaked: URL Cache Clear to only run if present not every page load
 

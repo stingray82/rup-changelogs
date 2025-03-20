@@ -6,6 +6,7 @@ Fixed: Corrected issues with parameter encoding for special characters
 = 1.35 (10 March 2025) =
  Fixed: Resolved an edge-case bug in URL parameter extraction
 Tweaked: Optimized parsing logic for improved performance
+Tweaked: Updater Settings
 
 = 1.34 (05 March 2025) = 
 New: Initial release with basic functionality for capturing and utilizing URL parameters in SureCart
