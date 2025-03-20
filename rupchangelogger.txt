@@ -1,5 +1,5 @@
 = 1.03 (21 March 2025) =
-Tweaked: URL Cache Clear to only run if present to every page load
+Tweaked: URL Cache Clear to only run if present not every page load
 
 = 1.02 (20 March 2025) =
 Fixed: CSS Tweak - Timeline boarder removed on smaller screen for cleaner look
