@@ -1,9 +1,10 @@
 = 1.02 (21 March 2025) =
-Fix: CSS Tweak - Timeline boarder removed on smaller screen for cleaner look
+Tweaked: URL Cache Clear to only run if present to every page load
 
 = 1.01 (20 March 2025) =
 New: Added Automatic Updates
-
+Fix: CSS Tweak - Timeline boarder removed on smaller screen for cleaner look
+Fix: Toolbar Cache Clear not looking for new URL based transient
 = 1.0 (19 March 2025) =
 New: Initial Release
 New: Filter CSS
