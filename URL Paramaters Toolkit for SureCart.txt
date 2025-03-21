@@ -1,4 +1,5 @@
-= 1.36-Alpha (15 March 2025) = 
+= 1.36 (15 March 2025) = 
+New: Alpha Release Only
 New: Added support for multiple URL parameters and dynamic mapping
 Improved: Enhanced integration with SureCart for seamless parameter tracking
 Fixed: Corrected issues with parameter encoding for special characters
