@@ -1,3 +1,6 @@
+= 1.06 (25 March 2025) =
+New: Added Some Fuzziness to the interpretation of headers and words including common used like improved and improvement, Warn and Warning, Update and Updated
+
 = 1.05 (24 March 2025) =
 Tweaked: Stylesheet Filter for better override
 Tweaked: Updater Location
