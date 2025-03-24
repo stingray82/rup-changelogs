@@ -1,3 +1,13 @@
+= 1.05 (24 March 2025) =
+Improvements: Additional Prep for Pro
+Tweaked: Updater Location
+
+= 1.04 (24 March 2025) =
+Tweaked: Updater Settings
+Tweaked: Admin Area
+Improvements: Prep for Pro
+
+
 = 1.03 (21 March 2025) =
 Tweaked: Updater Settings
 

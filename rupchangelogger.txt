@@ -1,3 +1,7 @@
+= 1.05 (24 March 2025) =
+Tweaked: Stylesheet Filter for better override
+Tweaked: Updater Location
+
 = 1.04 (21 March 2025) =
 Tweaked: Updater Settings
 

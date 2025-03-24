@@ -1,3 +1,8 @@
+=1.22 ( 24 March 2025) =
+Tweaked: Layout
+Fixed: Some reports of non loading menu
+Tweaked: Update Location Changed
+
 = 1.21 (20 March 2025) =
 Tweaked: Updater Settings
 
