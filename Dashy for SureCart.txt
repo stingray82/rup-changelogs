@@ -1,4 +1,4 @@
-=1.22 ( 24 March 2025) =
+= 1.22 ( 24 March 2025) =
 Tweaked: Layout
 Fixed: Some reports of non loading menu
 Tweaked: Update Location Changed
