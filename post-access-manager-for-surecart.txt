@@ -1,8 +1,12 @@
-= 1.21 (March 2025) =
+= 1.22 (27 March 2025) =
+Fixed: Incorrect file reference
+Improved: CSS filtering
+
+= 1.21 (18 March 2025) =
 Updated: Tidying Shared Functions with other RUP Plugins
 
-= 1.2 (March 2025) =
+= 1.2 (7 March 2025) =
 Fixed: Update Manager Fixes
 
-= 1.19 (March 2025) =
+= 1.19 (1 March 2025) =
 New: Initial Plugin Release
