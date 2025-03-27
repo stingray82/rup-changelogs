@@ -1,5 +1,5 @@
 
-1.0.3 (27 March 2024 =
+1.0.3 (27 March 2025 =
 Improved: Bunny Integration
 Improved: White Label Support (Now Supports Hiding plugins)
 
