@@ -1,9 +1,14 @@
+
+1.0.3 (27 March 2024 =
+Improved: Bunny Integration
+Improved: White Label Support (Now Supports Hiding plugins)
+
 = 1.0.2 (15 March 2025) =
 Improvement: Auto Updating
 New: Added Support Calipio
 New: Added Support for Story Xpress
 New: Added Support for Bunny
-New: White Labeling
+New: White Labelling
 
 = 1.0.1 (10 March 2025) =
 New: Added Auto-Updating
