@@ -1,0 +1,4 @@
+= 1.0 (5 April 2025) =
+New: Initial Release
+New: Auto Update
+New: Add and Remove user from Course functions
