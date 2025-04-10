@@ -1,3 +1,15 @@
+= 1.2 (10 April 2025) = 
+New: Rest API (Enrol and Remove User)
+New: Webhook Triggers for Unit Complete, Module Complete, Course Complete and Enrolled on Course
+New: Web Hook Authorisation
+New: Admin Interface
+
+= 1.1 (7 April 2025) =
+New: Added Custom Trigger Function - User Completed Unit
+New: Added Custom Trigger Function - User Completed Module
+New: Added Custom Trigger Function - User Completed Course
+New: Added Custom Trigger Function - User Enrolled on Course
+
 = 1.0 (5 April 2025) =
 New: Initial Release
 New: Auto Update
