@@ -1,4 +1,4 @@
-= 1.09 (27 March 2025) =
+= 1.09 (17 April 2025) =
 Improved: Fuzziness Again
 New: Tested to 6.8
 
