@@ -1,3 +1,7 @@
+= 1.38 (05 May 2025) =
+Tweaked: Dynamic Mapping
+Fixed: Issue with some Installs of 6.8.1
+
 = 1.37 (24 March 2025) =
 New: Automatic Updater
 Tweaked:  This is a tweaked version of 1.36 after beta feedback
