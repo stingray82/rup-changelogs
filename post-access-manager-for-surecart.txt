@@ -1,3 +1,10 @@
+= 1.5 (20 May 2025) =
+New: Subscription Support
+New: Revoke Access Support
+New: Invoke Access Support
+Improved: With the above New Subscription Items your now fully linked to your Sure Cart interface allowing easy removal of subscription based purchases
+Fixed: Various Small Reported Bugs
+
 = 1.41 (28 April 2025) = 
 Improved: Custom Post Field Filter, to make it better support potential post subscription
 Improved: Custom Post Type Filter, to make it better support potential post subscription
