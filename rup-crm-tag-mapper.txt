@@ -1,0 +1,11 @@
+= 1.03 (23 May 2025) =
+New: Added Automatic Updater
+
+= 1.02 (22 May 2025) =
+New: Allow each mapping to be disabled i.e. for offer periods.
+
+= 1.01 (20 May 2025) =
+New: Added Dynamic Loading of Tags
+
+= 1.0 (19 May 2025) =
+New: Initial Release
