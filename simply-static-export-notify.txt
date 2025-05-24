@@ -1,0 +1,9 @@
+= 1.02 24 May 2025 =
+Improved: Debug Logging now outside of debug log
+New: Automatic Updating 
+
+= 1.01 24 May 2025 =
+Improved: Debug Logging
+
+= 1.0 24 May 2025 = 
+New: Launch

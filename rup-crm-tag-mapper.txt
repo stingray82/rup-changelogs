@@ -1,3 +1,6 @@
+= 1.04 (23 May 2025) =
+Tweak: First Automatic Updater Test
+
 = 1.03 (23 May 2025) =
 New: Added Automatic Updater
 
