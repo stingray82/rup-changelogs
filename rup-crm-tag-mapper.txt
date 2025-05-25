@@ -1,3 +1,6 @@
+= 1.05 (25 May 2025) =
+New: Delete Parings
+
 = 1.04 (23 May 2025) =
 Tweak: First Automatic Updater Test
 
