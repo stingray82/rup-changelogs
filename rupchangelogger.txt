@@ -1,3 +1,16 @@
+= 1.16 (14 June 2025) =
+Fixed: New Updater Test
+
+= 1.15 (14 June 2025) =
+New: Deploy Test
+
+= 1.14 (14 June 2025) =
+New: Deploy Test
+
+= 1.13 (14 June 2025) =
+New: Changes for New Deploy Script
+Improved: Updater
+
 = 1.09 (17 April 2025) =
 Improved: Fuzziness Again
 New: Tested to 6.8
