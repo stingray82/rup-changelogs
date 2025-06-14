@@ -1,3 +1,6 @@
+= 1.1.2 14 June 2025 =
+New: Updater Script - This will allow direct from GitHub updates if needed and works with the new deploy script
+
 = 1.1.1 14 June 2025 =
 New: Test New Deploy Script
 
