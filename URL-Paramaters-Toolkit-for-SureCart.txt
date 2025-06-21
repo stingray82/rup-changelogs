@@ -1,3 +1,6 @@
+= 1.4 21 June 2025 =
+New: Updates Now served directly from GitHub using UUPD
+
 = 1.39 (20 May 2025) =
 Tweaked: Dynamic Mapping to fix error report
 

@@ -1,3 +1,5 @@
+= 1.0.8 21 June 2025 =
+New: Updates Now served directly from GitHub using UUPD
 
 = 1.0.7 (27 May 2025) =
 Improve: Updater Class robustness in WP 6.8
