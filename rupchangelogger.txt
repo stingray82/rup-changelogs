@@ -1,3 +1,6 @@
+= 1.20 ( 05 July 2025) =
+Fixed: Issue with Changelogs not loading correctly
+
 = 1.19 ( 21 June 2025) =
 New: Updates Now served directly from GitHub using UUPD
 
