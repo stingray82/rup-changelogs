@@ -1,3 +1,7 @@
+= 1.21 06 July 2025 =
+New: Rescoped RUP_UUPD
+Update: UUPD 1.2.4
+
 = 1.20 ( 05 July 2025) =
 Fixed: Issue with Changelogs not loading correctly
 
