@@ -1,3 +1,6 @@
+= 1.5.1 (12 July 2025) =
+Fixed: occasional denied access bug
+
 = 1.5 (20 May 2025) =
 New: Subscription Support
 New: Revoke Access Support

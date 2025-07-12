@@ -1,0 +1,7 @@
+= 0.9 (11 July 2025) =
+New: Added Licencing
+Tweaked: White label Settings
+New: Added Support for YouTube
+New: Added Support for Vimeo
+New: Added Support for Send Spark
+New: Added Support for BerryCast
