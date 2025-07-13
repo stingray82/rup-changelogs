@@ -1,2 +1,8 @@
+= 0.5.2 13 July 2025 =
+New: Second Automatic Update Test
+
+= 0.5.1 13 July 2025 =
+New: First Automatic Update Test
+
 = 0.5 13 July 2025 =
 New: Alpha Testing Release
