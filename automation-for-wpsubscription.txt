@@ -1,3 +1,11 @@
+= 0.5.4 13 July 2025 =
+New: Workflow Setup Helpers in WP-Subscriptions ---> Automations
+New: Speed up Flowmattic Setup & Mapping
+
+= 0.5.3 13 July 2025 =
+New: Third Automatic Update Test
+Tweaked: Readme File
+
 = 0.5.2 13 July 2025 =
 New: Second Automatic Update Test
 
