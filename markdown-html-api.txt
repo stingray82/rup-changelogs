@@ -1,0 +1,6 @@
+= 1.0.1 (19 July 2025) =
+New: Brand Function Names
+Update: Automatic Update Test
+
+= 1.0 (18 July 2025) =
+New: Release
