@@ -1,3 +1,12 @@
+= 0.9.3 (22 July 2025) =
+Improved: Updated SDK
+
+= 0.9.2  ( July 2025) =
+Tweak: Fixed Bubbles Using ${var} depreciation notice 
+
+= 0.9.1  (20 July 2025) =
+Tweak: Redirect on Save switched to JS due to issue with PHP and WhiteSpace
+
 = 0.9 (11 July 2025) =
 New: Added Licencing
 Tweaked: White label Settings
