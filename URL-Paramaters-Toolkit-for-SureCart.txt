@@ -1,3 +1,6 @@
+= 1.5.1 01 Aug 2025 =
+Fix: MainWP Dashboard Icon Filter
+
 = 1.5 01 Aug 2025 =
 New: Custom Fields Tab Added Back
 New: MainWP Dashboard Icon Filter
