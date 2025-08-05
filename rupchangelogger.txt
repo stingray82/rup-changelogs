@@ -1,3 +1,6 @@
+= 1.23.1 5 August 2025 =
+Fixed: Comment out WP Icon Filter which is causing issues in latest MainWP
+
 = 1.23.0 27 July 2025 =
 Fixed: Versioning hiccup
 New: MainWP Dashboard Icon Filter
