@@ -1,0 +1,7 @@
+= 0.9.7 22 August 2025 =
+New: First Updater Test (Update)
+New: Notify for Suremail
+
+= 0.9.6 22 August 2025 =
+New: Initial Release
+New: First Updater Test
