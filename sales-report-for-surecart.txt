@@ -1,0 +1,2 @@
+= 1.0.0 04 September 2025 =
+New: Initial Release

@@ -1,2 +1,14 @@
+= 1.1.1 September 2025 =
+Fixed: Minimum Order Subtotal
+
+= 1.1 September 2025 =
+New: Select 2 - Multiselect
+New: Saves generation details
+New: Reset Button
+
+= 1.0 September 2025 =
+New: New Queries API for Products
+New: Supports Multi-Select
+
 = 0.9 August 2025 =
 New: Initial Release

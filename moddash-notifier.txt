@@ -1,3 +1,8 @@
+= 1.0 4 October 2025 =
+New: Supports Multiple Channel Slack
+New: Added Telegram including Multiple Channels
+New: Supports Multiple Channel Discord
+
 = 0.9.4 15 August 2025 =
 New: Automatic Update Test
 
