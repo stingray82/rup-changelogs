@@ -1,3 +1,6 @@
+= 0.9.8 09 November 2025 =
+New: Update Deploy Script
+
 = 0.9.7 22 August 2025 =
 New: First Updater Test (Update)
 New: Notify for Suremail

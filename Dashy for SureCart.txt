@@ -1,3 +1,7 @@
+= 1.29.6 9 November 2025 =
+Fixed: Tab Directory issue
+
+
 = 1.29.5 5 August 2025 =
 New: Deploy Methodology 
 New: Production Test - New deploy.sh 

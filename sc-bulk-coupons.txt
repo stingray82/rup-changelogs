@@ -1,3 +1,7 @@
+= 1.2 October 2025 =
+New Product Selector updates
+New CSV output, Coupons Only or Both and original full
+
 = 1.1.1 September 2025 =
 Fixed: Minimum Order Subtotal
 
