@@ -1,6 +1,6 @@
 = 2.1 (November 2025) =
-Updated: SDK
-Updated: Wider Support for custom post type
+Improved: Updated SDK
+Improved: Wider Support for custom post type
 
 
 = 2.0 (October 2025) =
