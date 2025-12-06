@@ -1,0 +1,9 @@
+= 1.1.1 (December 2025) =
+New: Licencing Update
+
+= 1.1 (December 2025) =
+New: Instant Checkout Support Added
+New: Price ID Selector
+
+= 1.0 (December 2025) =
+New: Initial Release 

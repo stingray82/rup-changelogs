@@ -1,0 +1,8 @@
+= 1.1.1 (December 2025) =
+New: Licencing Update
+
+= 1.1 (December 2025) =
+Update: Short code
+
+= 1.0 (December 2025) =
+New: Initial Release 
