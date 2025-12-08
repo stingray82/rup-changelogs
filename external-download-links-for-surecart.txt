@@ -1,3 +1,6 @@
+= 1.1.3 (December 2025) =
+Update: Commercial Release
+
 = 1.1.2 (December 2025) =
 Update: Updated Bootstrap
 
