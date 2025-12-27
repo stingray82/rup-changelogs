@@ -3,6 +3,7 @@ Update: Fix Bounce on Licence Activation (SureCart)
 New: Added per-price controls to hide the Add to Cart + quantity UI and customise the Buy Now button label.
 New: External redirects are now optional per price: you can change button text and cart behaviour even without setting an external URL.
 Tweak: Quantity Selector
+Tweak: Removes Sticky Add to Cart Completely on External Price ID
 
 = 1.1.3 (December 2025) =
 Update: Commercial Release
