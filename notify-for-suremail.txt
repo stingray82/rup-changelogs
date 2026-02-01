@@ -1,3 +1,8 @@
+= 1.0 Feb 2026 = 
+New: Hidden Input Fields
+New: WPConfig Setup
+Improve: All Forms are now individual Forms
+
 = 0.9.8 09 November 2025 =
 New: Update Deploy Script
 

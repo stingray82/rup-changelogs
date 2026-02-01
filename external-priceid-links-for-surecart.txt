@@ -1,4 +1,4 @@
-= 1.1.4 (December 2025)
+= 1.1.4 (Feb 2025)
 Update: Fix Bounce on Licence Activation (SureCart)
 New: Added per-price controls to hide the Add to Cart + quantity UI and customise the Buy Now button label.
 New: External redirects are now optional per price: you can change button text and cart behaviour even without setting an external URL.
