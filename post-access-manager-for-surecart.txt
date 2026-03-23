@@ -1,3 +1,6 @@
+= 2.2 (March 2026) =
+New: Bricks Conditions
+
 = 2.1 (November 2025) =
 Improved: Updated SDK
 Improved: Wider Support for custom post type
