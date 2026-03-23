@@ -1,2 +1,6 @@
+= 1.0.1 23 March 2026 =
+Update: Updater to 2.0-Alpha
+Update: Compatibility
+
 = 1.0.0 04 September 2025 =
 New: Initial Release

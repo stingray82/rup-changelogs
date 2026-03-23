@@ -1,6 +1,9 @@
+= 1.29.7 23 March 2026 =
+Update: Updater to 2.0-Alpha
+Update: Compatibility
+
 = 1.29.6 9 November 2025 =
 Fixed: Tab Directory issue
-
 
 = 1.29.5 5 August 2025 =
 New: Deploy Methodology 

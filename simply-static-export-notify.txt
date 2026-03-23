@@ -1,3 +1,7 @@
+= 1.2 23 March 2026 =
+Update: Updater to 2.0-Alpha
+Update: Compatibility
+
 = 1.1.12 12 August 2025 =
 Improved: Icon Filter
 Improved: Discord Notification
