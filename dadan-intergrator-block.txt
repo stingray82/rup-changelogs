@@ -1,3 +1,8 @@
+= 1.0 23 March 2026 =
+Update: Updater to 2.0-Alpha
+Update: Compatibility
+New: Final 1.0 Release
+
 = 0.9.5 15 August 2025 =
 Tweaked: Fill Container is now default setting 
 
