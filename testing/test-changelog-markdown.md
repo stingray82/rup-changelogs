@@ -1,0 +1,267 @@
+## 2.0.0 - 15 April 2026
+### New
+- Introduced full changelog rendering engine rewrite for improved flexibility
+- Added support for timeline, cards, and compact layouts
+- Added format auto-detection for plain text and Markdown changelogs
+
+### Updated
+- Refined default shortcode behaviour for builder-agnostic usage
+
+### Improvement
+- Improved cache key generation to account for shortcode options
+
+### Performance
+- Reduced rendering overhead for large changelog files
+
+### Security
+- Hardened public cache clear workflow with optional enable flag
+
+### Tweaked
+- Improved spacing and alignment for layout wrappers
+
+### Warning
+- Public cache clear should remain disabled unless intentionally required
+
+### Compatibility
+- Improved handling for modern WordPress admin environments
+
+## 2.0.0-rc2 - 13 April 2026
+### Fixed
+- Corrected timeline ordering when using desc with source-ordered files
+- Resolved duplicate version/date parsing caused by nested regex captures
+- Improved parsing of version headers containing bracketed dates
+
+### Updated
+- Adjusted CSS gutter width for longer prerelease version labels
+
+### Tweaked
+- Polished cards layout spacing and border treatment
+
+### Known Issue
+- Very long single-word changelog entries may still require custom CSS
+
+## 2.0.0-rc1 - 11 April 2026
+### New
+- Added release candidate parser coverage for rc version tags
+
+### Fixed
+- Corrected issue where alpha and beta labels could overlap dates in timeline layout
+
+### Improvement
+- Improved filter button active state handling
+
+### Experimental
+- Added early support for alternate release summary display logic
+
+### Deprecated
+- Legacy assumptions around short version strings are no longer recommended
+
+## 2.0.0-beta.3 - 09 April 2026
+### New
+- Added show_summary shortcode option for optional release summary pills
+- Added frontend logic to hide empty version groups after filter application
+
+### Updated
+- Improved README examples for cards and compact layouts
+
+### Fixed
+- Corrected client-side filtering state when switching between tags repeatedly
+
+### Tweaked
+- Softened warning label styling for better visual balance
+
+### Performance
+- Reduced unnecessary DOM updates during filter toggling
+
+## 2.0.0-beta.2 - 07 April 2026
+### New
+- Added broader semantic version parser support for beta, rc, dev, pre, preview, canary, and nightly
+- Added support for build metadata versions like 2.0.0-beta.2+build.45
+
+### Updated
+- Expanded alias handling for changelog entry labels
+
+### Fixed
+- Resolved issue where multiline shortcode tests could appear to lose the URL attribute in some editors
+
+### Improvement
+- Improved fallback type handling for unknown entry labels
+
+### Compatibility
+- Better support for changelog files hosted on GitHub raw URLs
+
+## 2.0.0-beta.1+build.45 - 05 April 2026
+### New
+- Added Markdown changelog parsing
+- Added cards layout renderer
+- Added compact layout renderer
+
+### Updated
+- Improved rendering defaults to better suit shortcode-only usage
+
+### Fixed
+- Corrected parser handling for Markdown bullet lists under typed headings
+
+### Experimental
+- Introduced format="auto" routing for parser selection
+
+### Warning
+- Markdown parser currently expects structured heading hierarchy
+
+## 2.0.0-alpha.4 - 04 April 2026
+### New
+- Added support for Version 1.3.0-alpha (3 April 2026) style headers
+- Added support for = 1.24 23 March 2026 = style headers
+- Added support for = 1.20 ( 05 July 2025 ) = style headers
+
+### Fixed
+- Corrected parser handling for extra internal spacing in version lines
+
+### Updated
+- Improved historical changelog compatibility for older plugin release notes
+
+### Tweaked
+- Refined parser branch ordering for reliability
+
+### Compatibility
+- Improved acceptance of WordPress-style changelog formatting
+
+## 2.0.0-alpha.3 - 03 April 2026
+### New
+- Added support for dev and preview prerelease suffixes
+- Added support for nightly and canary prerelease suffixes
+
+### Fixed
+- Corrected date extraction when version headers included equals signs
+
+### Improvement
+- Improved normalization of internal whitespace before parser checks
+
+### Security
+- Reduced risk of unsafe redirect handling in admin cache clearing
+
+### Deprecated
+- Older direct URL clear patterns without feature gating are discouraged
+
+## 2.0.0-alpha.2 - 02 April 2026
+### New
+- Added expanded changelog type aliases for Added, Changed, Removed, Breaking, and Experimental
+
+### Updated
+- Improved label colour defaults for a wider set of changelog entry types
+
+### Fixed
+- Corrected hidden version content state for collapsible sections
+
+### Improvement
+- Improved output escaping for version, date, label, and entry text
+
+### Performance
+- Reduced redundant recalculation while building release summaries
+
+## 2.0.0-alpha.1 - 01 April 2026
+### New
+- Added base support for shortcode-driven changelog customization
+- Added title support in the shortcode output
+- Added optional filter buttons for changelog types
+- Added optional collapsible version groups
+
+### Fixed
+- Corrected cache clearing redirect behaviour
+
+### Tweaked
+- Improved initial timeline visual styling
+
+### Experimental
+- Introduced prerelease support groundwork
+
+## 1.24 - 23 March 2026
+### Update
+- Updater to 2.0-Alpha
+- Compatibility
+
+### Fixed
+- Minor regression in changelog item spacing
+
+### Tweaked
+- Improved date alignment in timeline mode
+
+## 1.23.1 - 12 March 2026
+### New
+- Added GitHub raw changelog fetch support
+
+### Fixed
+- Corrected changelog loading issue on some hosts
+
+### Improvement
+- Better cache consistency across repeated requests
+
+## 1.22-rc1 - 01 March 2026
+### Experimental
+- Added early updater channel testing support
+
+### Known Issue
+- Release candidate builds should not be used on production sites
+
+## 1.21 - 06 July 2025
+### New
+- Rescoped RUP_UUPD
+
+### Update
+- UUPD 1.2.4
+
+## 1.20 - 05 July 2025
+### Fixed
+- Issue with changelogs not loading correctly
+
+## 1.19 - 21 June 2025
+### New
+- Updates now served directly from GitHub using UUPD
+
+## 1.18 - 21 June 2025
+### New
+- Updates now served directly from GitHub using UUPD
+
+## 1.17 - 21 June 2025
+### New
+- Updates now served directly from GitHub using UUPD
+
+## 1.16 - 14 June 2025
+### Fixed
+- New updater test
+
+## 1.15 - 14 June 2025
+### New
+- Deploy test
+
+## 1.14 - 14 June 2025
+### New
+- Deploy test
+
+## v1.13-dev - 10 June 2025
+### Experimental
+- Added development build parser trial
+
+### Warning
+- Development builds may include incomplete UI changes
+
+## 1.12-preview - 08 June 2025
+### New
+- Preview release notes format test
+
+### Tweaked
+- Visual polish for label rendering
+
+## 1.11-canary.2 - 06 June 2025
+### Experimental
+- Added canary release channel coverage
+
+### Performance
+- Reduced time to first render on large changelog files
+
+## 1.10-nightly+build.7 - 04 June 2025
+### New
+- Nightly build metadata parsing test
+
+### Known Issue
+- Build metadata is informational only and not sorted semantically
