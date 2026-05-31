@@ -3,7 +3,7 @@
 Text:
 Version 2.0 introduces label-less text blocks, code blocks, and advanced release note styling.
 
-Code:
+Code:Example
 Text:
 Your release note content goes here.
 URLs such as https://example.com/docs are linked automatically.
