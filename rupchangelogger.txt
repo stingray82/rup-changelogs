@@ -1,3 +1,28 @@
+= 2.0.0 May 2026 =
+
+Text:
+Version 2.0 introduces label-less text blocks for longer release notes, upgrade guidance, and documentation links.
+
+Use a plain text block like this:
+
+Text:
+Your release note content goes here.
+URLs such as https://example.com/docs and www.example.com/migrate are linked automatically.
+EndText
+
+In Markdown changelogs, use a ### Text heading and write the block content below it. The block continues until the next ### type heading or ## version heading.
+
+Text blocks stay strict and intentional: normal untagged lines outside a Text block are still ignored, which helps avoid accidental rendering.
+EndText
+
+New: Added label-less multiline Text blocks for plain text changelogs.
+New: Added Markdown Text block support using the ### Text heading.
+New: Added automatic URL linking for https://, http://, and www. links in changelog output.
+New: Added per-release text block classes such as changelog-text-block-1, changelog-text-block-from-top-1, and changelog-text-block-from-bottom-1.
+New: Added global text block index classes such as changelog-text-block-global-1 for page-wide targeting.
+Updated: Improved changelog documentation with Text block usage examples and styling guidance.
+Fixed: Kept untagged plain text lines ignored unless they are inside an explicit Text block.
+
 = 1.30.1 May 2026 = 
 Added: Support for month and year version headers in plain changelogs.
 Added: Support for month and year version headers in Markdown changelogs.
