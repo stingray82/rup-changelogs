@@ -25,17 +25,15 @@
 ### Compatibility
 - Improved handling for modern WordPress admin environments
 
-### Note
-- This release includes example note content for testing expandable filter behaviour.
+### Text
+This release includes a label-less release note block for testing the new full-width text output.
 
-### Info
-- Review the shortcode examples at https://example.com/changelogger/shortcodes before testing layouts.
+Review the shortcode examples at https://example.com/changelogger/shortcodes before testing layouts.
 
-### Documentation
-- Full documentation is available at www.example.com/docs/rup-changelogger.
+### Text
+Full documentation is available at www.example.com/docs/rup-changelogger.
 
-### Link
-- Release notes mirror: http://example.com/releases/rup-changelogger-2-0-0
+Release notes mirror: http://example.com/releases/rup-changelogger-2-0-0
 
 ## 2.0.0-rc2 - 13 April 2026
 ### Fixed

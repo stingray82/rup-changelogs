@@ -6,18 +6,17 @@
 ### Tweaked
 - Standard tweaked entry
 
-### Note
-- Safe note URL should autolink https://example.com/safe-note while keeping punctuation outside.
+### Text
+Safe text block URL should autolink https://example.com/safe-note while keeping punctuation outside.
 
-### Info
-- Test www URL autolinking with www.example.com/path?query=yes&ok=true.
+Test www URL autolinking with www.example.com/path?query=yes&ok=true.
 
-### Docs
-- Documentation alias test should link http://docs.example.com/rup-changelogger.
+### Text
+Multiple links in one block should both autolink:
+https://example.com/one
+www.example.com/two
 
-### Links
-- Multiple links in one line https://example.com/one and www.example.com/two should both link.
-- Non-http scheme should remain plain text javascript:alert(1) and should not become a link.
+Non-http scheme should remain plain text javascript:alert(1) and should not become a link.
 
 ## 3.0.0-alpha - 19 April 2026
 ### New
