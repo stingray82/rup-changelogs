@@ -1,0 +1,12 @@
+= 1.0.3 May 2026 =
+New: Automatic Updates
+New: Plugin Assets
+
+= 1.0.2 May 2026 =
+Improved: CSS
+
+= 1.0.1 May 2026 =
+Improved: Split File
+
+= 1.0 May 2026 =
+Initial public release.
