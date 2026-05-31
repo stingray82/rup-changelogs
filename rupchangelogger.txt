@@ -1,4 +1,4 @@
-= 2.0.0 May 2026 =
+= 2.0.0 June 2026 =
 
 Text:
 Version 2.0 introduces label-less text blocks for longer release notes, upgrade guidance, and documentation links.
