@@ -1,0 +1,247 @@
+= 3.2.0 May 2026 =
+Text:
+This release is a larger feature update designed to test the first text block styling in a release.
+
+It includes a documentation link at https://example.com/docs/changelogger/text-blocks and a public demo URL at www.example.com/demo/changelogger.
+EndText
+New: Added label-less Text blocks for long release notes.
+New: Added automatic URL linking inside Text blocks.
+Improvement: Improved rendering of block paragraphs in timeline and cards layouts.
+Fixed: Corrected spacing around text-only release notes.
+Text:
+This second block should be styled as the last text block for this release.
+
+It also includes multiple URLs:
+https://example.com/release/3-2-0
+www.example.com/support
+EndText
+
+= 3.1.5 May 2026 =
+Fixed: Corrected filter state after switching between labels.
+Fixed: Improved keyboard focus when collapsing releases.
+Tweaked: Adjusted badge alignment on smaller screens.
+Text:
+A single text block after normal changelog items.
+
+This tests whether a note at the bottom of a release feels visually connected but still separate.
+EndText
+
+= 3.1.4 May 2026 =
+Text:
+This note appears before all changelog items.
+
+Use this pattern for upgrade warnings, pre-release guidance, or links to migration docs.
+Migration notes: https://example.com/migration/3-1-4
+EndText
+Warning: This release changes several layout assumptions.
+Compatibility: Tested with modern WordPress block themes.
+Fixed: Reduced layout shift when long labels are rendered.
+Known Issue: Very long unbroken words may still require custom CSS in some themes.
+
+= 3.1.3 May 2026 =
+New: Added extra shortcode examples for testing.
+Updated: Refined documentation wording.
+Performance: Reduced repeated parser checks for larger files.
+Text:
+This middle block sits between entries.
+
+It is useful for adding context without turning the whole note into a labelled changelog item.
+EndText
+Fixed: Corrected a small issue with release anchors.
+Tweaked: Improved visual rhythm in compact mode.
+
+= 3.1.2 April 2026 =
+Text:
+Only one text block in this release.
+
+The block contains a www URL without a protocol: www.example.com/only-one-block
+EndText
+New: Added support for month/year version headers.
+Fixed: Improved date extraction in plain text changelogs.
+Improvement: Added more predictable parsing for release headers.
+
+= 3.1.1 April 2026 =
+New: Added support for v-prefixed version numbers.
+Fixed: Corrected prerelease suffix handling.
+Tweaked: Adjusted timeline dot positioning.
+
+= 3.1.0 April 2026 =
+Text:
+Major release summary.
+
+This release introduces several related improvements and is a good example of using a text block as an overview before the itemized changelog.
+Read more: https://example.com/blog/changelogger-3-1-0
+EndText
+New: Added timeline layout improvements.
+New: Added cards layout improvements.
+New: Added compact layout improvements.
+Updated: Refined default shortcode behavior.
+Improvement: Improved cache key generation.
+Performance: Reduced rendering overhead for long changelogs.
+Security: Hardened optional public cache clearing.
+Text:
+Post-release note.
+
+This final block can be used for follow-up details, known limitations, or documentation links.
+Docs: www.example.com/docs/3-1-0
+EndText
+
+= 3.0.6 April 2026 =
+Fixed: Corrected link rendering when URLs end with punctuation.
+Fixed: Improved escaping around generated anchors.
+Text:
+This block includes punctuation around URLs.
+
+See https://example.com/punctuation-test, then compare www.example.com/second-test.
+EndText
+Tweaked: Improved hover state consistency.
+
+= 3.0.5 April 2026 =
+Experimental: Added early text block targeting classes.
+Text:
+This is the first of three text blocks.
+
+It should receive from-top-1 and from-bottom-3 classes.
+EndText
+New: Added first block class support.
+Text:
+This is the second of three text blocks.
+
+It should receive from-top-2 and from-bottom-2 classes.
+EndText
+New: Added middle block targeting support.
+Text:
+This is the third of three text blocks.
+
+It should receive from-top-3 and from-bottom-1 classes.
+EndText
+Fixed: Corrected last block class generation.
+
+= 3.0.4 April 2026 =
+New: Added release note callout styling hooks.
+Updated: Improved CSS class naming for text blocks.
+Compatibility: Confirmed support for timeline, cards, and compact layouts.
+
+= 3.0.3 March 2026 =
+Text:
+This release includes a longer paragraph intended to test wrapping, line height, spacing, and the appearance of dense release notes. The goal is to make sure the block remains readable even when the content is longer than a normal changelog item.
+
+Second paragraph with a URL: https://example.com/long-release-note-testing
+
+Third paragraph to check paragraph spacing.
+EndText
+Fixed: Corrected spacing around long text blocks.
+Improvement: Improved readability for release notes.
+
+= 3.0.2 March 2026 =
+New: Added filter buttons for changelog labels.
+Fixed: Fixed empty version groups after filtering.
+Tweaked: Improved active filter button styling.
+Text:
+Filtering should keep text blocks targetable through data-type="text" while rendering without a visible label badge.
+EndText
+
+= 3.0.1 March 2026 =
+Fixed: Corrected parser behavior for invalid headers.
+Fixed: Improved recovery after malformed entries.
+Known Issue: Invalid free text outside Text blocks is intentionally ignored.
+Text:
+This note explains the strict parsing behavior.
+
+Normal untagged lines are ignored so accidental text does not become a changelog entry.
+EndText
+
+= 3.0.0 March 2026 =
+Text:
+Initial stable release of the rewritten changelog renderer.
+
+Documentation: https://example.com/docs/rup-changelogger
+Demo: www.example.com/changelog-demo
+EndText
+New: Introduced full changelog rendering engine rewrite.
+New: Added support for timeline layout.
+New: Added support for cards layout.
+New: Added support for compact layout.
+New: Added format auto-detection for plain text and Markdown changelogs.
+Updated: Refined shortcode defaults.
+Improvement: Improved cache handling.
+Performance: Reduced rendering overhead.
+Security: Hardened optional public cache clear workflow.
+Text:
+Thank you for testing this release.
+
+This final note is useful for support links, feedback instructions, or upgrade reminders.
+Support: https://example.com/support
+EndText
+
+= 2.9.9 February 2026 =
+Fixed: Corrected legacy changelog spacing.
+Tweaked: Improved badge alignment.
+Compatibility: Improved support for older themes.
+
+= 2.9.8 February 2026 =
+Text:
+Legacy compatibility note.
+
+This release keeps older changelog formats working while newer text blocks are being tested.
+EndText
+Updated: Expanded parser compatibility.
+Fixed: Corrected bracketed date parsing.
+
+= 2.9.7 February 2026 =
+New: Added prerelease parser tests.
+Experimental: Added canary build examples.
+Warning: Development builds may include incomplete UI changes.
+Text:
+This block appears after a warning label.
+
+It should help compare badge styling against a full-width release note.
+EndText
+
+= 2.9.6 January 2026 =
+New: Added more label color defaults.
+Fixed: Corrected known issue styling.
+Tweaked: Improved default CSS comments.
+
+= 2.9.5 January 2026 =
+Text:
+Small maintenance release note.
+
+No action is required for existing users.
+EndText
+Fixed: Minor regression in changelog item spacing.
+Updated: Improved date alignment in timeline mode.
+
+= 2.9.4 January 2026 =
+New: Added GitHub raw changelog fetch support.
+Fixed: Corrected changelog loading issue on some hosts.
+Improvement: Better cache consistency across repeated requests.
+Text:
+External URL test with a query string:
+https://example.com/raw?file=changelog.txt&version=2.9.4
+EndText
+
+= 2.9.3 December 2025 =
+Experimental: Added early updater channel testing support.
+Known Issue: Release candidate builds should not be used on production sites.
+
+= 2.9.2 December 2025 =
+Text:
+This release intentionally has a text block as the only prominent explanation before short entries.
+EndText
+New: Added deployment script checks.
+Fixed: Corrected updater metadata formatting.
+
+= 2.9.1 November 2025 =
+Fixed: Issue with changelogs not loading correctly.
+Tweaked: Visual polish for label rendering.
+
+= 2.9.0 November 2025 =
+Text:
+Older release summary.
+
+This block helps test how far down the page the styling remains consistent.
+EndText
+New: Updates now served directly from GitHub using UUPD.
+New: Added deployment test coverage.
+Fixed: New updater test.
