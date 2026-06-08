@@ -1,2 +1,5 @@
+1.0.0-RC
+Release Candidate
+
 1.0.0-Beta
 Initial Release of Plugin
