@@ -1,3 +1,6 @@
+= 2.0.1 24 July 2026 =
+Updated: UUPD Dependency Updated to Version 2.0 Stable
+
 = 2.0.0 15 April 2026 =
 Breaking: Tag mappings must be recreated after updating from any 1.x version
 Breaking: Manual Price ID entry replaced with SureCart product and price dropdown selectors
