@@ -1,3 +1,6 @@
+= 1.0.3 24 July 2026 =
+Updated: UUPD Dependency Updated to Version 2.0 Stable
+
 = 1.0.2 31 May 2026 =
 
 New: Added SUREMAIL_NOTIFY_DEBUG_ALL constant for detailed notification debugging and delivery tracing.
