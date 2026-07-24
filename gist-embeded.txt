@@ -1,5 +1,6 @@
-= 1.0.4 July 2026 =
+= 1.1 24 July 2026 =
 Updated: UUPD Dependency Updated to Version 2.0 Stable
+New: Add Support for Private and Repo Targeting
 
 = 1.0.3 May 2026 =
 New: Automatic Updates
