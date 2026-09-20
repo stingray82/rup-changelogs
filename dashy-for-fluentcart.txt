@@ -1,6 +1,8 @@
 = 1.0.6 20 September 2026 =
-Fixed: Exclude Media as a post type
-Improvements: Test Automatic Updates
+Fixed: Removed the WordPress Media attachment post type from Dashy content source selectors
+Improvement: Added validation to prevent unsupported attachment content types from being saved
+Improvement: Existing invalid attachment post type selections now safely fall back to Pages
+Tweaked: Restricted Page/Post/Custom Post sources to supported public WordPress post types
 
 = 1.0.5 20 September 2026 =
 New: First Public Release
