@@ -1,3 +1,7 @@
+= 1.0.6 20 September 2026 =
+Fixed: Exclude Media as a post type
+Improvements: Test Automatic Updates
+
 = 1.0.5 20 September 2026 =
 New: First Public Release
 New: Automatic Updates
