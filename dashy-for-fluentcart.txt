@@ -1,0 +1,40 @@
+= 1.0.5 20 September 2026 =
+New: First Public Release
+New: Automatic Updates
+= 1.0.4 20 September 2026 =
+New: Added per-tab Match Dashboard Colour option for SVG icons
+New: Added optional SVG colour normalization using currentColor
+Improvement: SVG icons can now inherit FluentCart dashboard navigation colours
+Improvement: Improved consistency between custom Dashy icons and native FluentCart menu icons
+Updated: Preserved original SVG colours when colour normalization is disabled
+Tweaked: Match Dashboard Colour is disabled by default to avoid altering existing branded or multicolour SVGs
+Compatibility: Improved active and hover state colour behaviour for normalized dashboard icons
+
+= 1.0.3 20 September 2026 =
+Fixed: Corrected SVG icons rendering incorrectly when FluentCart strips the source viewBox
+Fixed: Corrected compound accessibility-style SVG paths rendering as solid circles
+Fixed: Resolved loss of evenodd-based cut-outs after FluentCart sanitization
+Improvement: Added SVG geometry normalization before icons are passed to FluentCart
+Improvement: SVG path coordinates are normalized into a dashboard-safe coordinate system
+Updated: Oversized source dimensions such as 800px by 800px are normalized for customer dashboard use
+Updated: Reduced reliance on SVG attributes that may be removed by FluentCart's final sanitizer
+Compatibility: Improved support for SVGs using compound paths and internal cut-outs
+
+= 1.0.2 20 September 2026 =
+Updated: Removed raster image support from FluentCart dashboard icons
+Updated: Dashboard icon selection is now SVG-only
+Updated: Media Library icon selection is restricted to SVG files
+Fixed: Prevented PNG, JPG, WebP, and GIF images from being used in the FluentCart icon_svg field
+Improvement: Improved handling of SVGs using fill-rule and clip-rule
+Improvement: Added additional protection for evenodd SVG path rendering
+Compatibility: Aligned dashboard icon handling more closely with FluentCart's native icon_svg API
+Security: Continued sanitization of inline SVG markup before dashboard rendering
+
+= 1.0.1 20 September 2026 =
+Fixed: Improved handling of custom FluentCart dashboard icons
+Fixed: Corrected several SVGs becoming fully filled squares or circles due to inherited fill behaviour
+Improvement: Expanded supported SVG tags and attributes for more complex icons
+Improvement: Added support for SVG elements including defs, use, masks, clip paths, gradients, and ellipses
+Improvement: Improved preservation of explicit SVG fill and stroke values
+Tweaked: Normalized dashboard icon dimensions to better match FluentCart native navigation icons
+Compatibility: Improved support for SVGs exported from common design and icon tools
