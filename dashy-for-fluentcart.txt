@@ -1,3 +1,7 @@
+= 1.0.7 16 October 2026 =
+Updated: UUPD Dependency Updated to Version 2.1 Stable
+Updated: Deploy Methodology
+
 = 1.0.6 20 September 2026 =
 Fixed: Removed the WordPress Media attachment post type from Dashy content source selectors
 Improvement: Added validation to prevent unsupported attachment content types from being saved
