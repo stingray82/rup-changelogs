@@ -1,17 +1,17 @@
 = 1.1.5 (March 2025) =
-Fix: Link Issue
+* [Fix] Link Issue
 
 = 1.1.3 (December 2025) =
-Update: Commercial Release
+* [Update] Commercial Release
 
 = 1.1.2 (December 2025) =
-Update: Updated Bootstrap
+* [Update] Updated Bootstrap
 
 = 1.1.1 (December 2025) =
-New: Licencing Update
+* [New] Licencing Update
 
 = 1.1 (December 2025) =
-Update: Short code
+* [Update] Short code
 
 = 1.0 (December 2025) =
-New: Initial Release 
+* [New] Initial Release

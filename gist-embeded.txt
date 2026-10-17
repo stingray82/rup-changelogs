@@ -1,20 +1,20 @@
 = 1.1.1 16 October 2026 =
-Updated: UUPD Dependency Updated to Version 2.1 Stable
-Updated: Deploy Methodology
+* [Updated] UUPD Dependency Updated to Version 2.1 Stable
+* [Updated] Deploy Methodology
 
 = 1.1 24 July 2026 =
-Updated: UUPD Dependency Updated to Version 2.0 Stable
-New: Add Support for Private and Repo Targeting
+* [Updated] UUPD Dependency Updated to Version 2.0 Stable
+* [New] Add Support for Private and Repo Targeting
 
 = 1.0.3 May 2026 =
-New: Automatic Updates
-New: Plugin Assets
+* [New] Automatic Updates
+* [New] Plugin Assets
 
 = 1.0.2 May 2026 =
-Improved: CSS
+* [Improved] CSS
 
 = 1.0.1 May 2026 =
-Improved: Split File
+* [Improved] Split File
 
 = 1.0 May 2026 =
-New: Initial public release.
+* [New] Initial public release.

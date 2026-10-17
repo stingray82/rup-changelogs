@@ -1,27 +1,27 @@
 = 1.0.3 16 October 2026 =
-Updated: UUPD Dependency Updated to Version 2.1 Stable
-Updated: Deploy Methodology
+* [Updated] UUPD Dependency Updated to Version 2.1 Stable
+* [Updated] Deploy Methodology
 
 = 1.0.2 24 July 2026 =
-Updated: UUPD Dependency Updated to Version 2.0 Stable
+* [Updated] UUPD Dependency Updated to Version 2.0 Stable
 
 = 1.0.1 23 March 2026 =
-Update: Updater to 2.0-Alpha
-Update: Compatibility
+* [Update] Updater to 2.0-Alpha
+* [Update] Compatibility
 
 = 1.0 4 October 2025 =
-New: Supports Multiple Channel Slack
-New: Added Telegram including Multiple Channels
-New: Supports Multiple Channel Discord
+* [New] Supports Multiple Channel Slack
+* [New] Added Telegram including Multiple Channels
+* [New] Supports Multiple Channel Discord
 
 = 0.9.4 15 August 2025 =
-New: Automatic Update Test
+* [New] Automatic Update Test
 
 = 0.9.3 15 August 2025 =
-New: Automatic Update Test
+* [New] Automatic Update Test
 
 = 0.9.2 15 August 2025 =
-New: Initial launch
-New: Slack Notification
-New: Discord Notification
-New: Prep for Automatic Update Test
+* [New] Initial launch
+* [New] Slack Notification
+* [New] Discord Notification
+* [New] Prep for Automatic Update Test

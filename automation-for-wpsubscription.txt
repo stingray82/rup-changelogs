@@ -1,46 +1,46 @@
 = 0.5.12 16 October 2026 =
-Updated: UUPD Dependency Updated to Version 2.1 Stable
+* [Updated] UUPD Dependency Updated to Version 2.1 Stable
 
 = 0.5.11 24 July 2026 =
-Updated: UUPD Dependency Updated to Version 2.0 Stable
+* [Updated] UUPD Dependency Updated to Version 2.0 Stable
 
 = 0.5.10 23 March 2026 =
-Update: Updater to 2.0-Alpha
-Update: Compatibility
+* [Update] Updater to 2.0-Alpha
+* [Update] Compatibility
 
 = 0.5.9 5 August 2025 =
-New: Deploy Methodology 
-New: Production Test - New deploy.sh 
-Fixed: Icon Issue
+* [New] Deploy Methodology
+* [New] Production Test - New deploy.sh
+* [Fixed] Icon Issue
 
 = 0.5.8 5 August 2025 =
-Fixed: Comment out WP Icon Filter which is causing issues in latest MainWP
+* [Fixed] Comment out WP Icon Filter which is causing issues in latest MainWP
 
 = 0.5.7 2 Aug 2025 =
-New: MainWP Icon Filter
+* [New] MainWP Icon Filter
 
 = 0.5.6 27 July 2025 =
-New: Prepare Future Support for Preleases
-New: Updated UUPD to 1.3.0
+* [New] Prepare Future Support for Preleases
+* [New] Updated UUPD to 1.3.0
 
 = 0.5.5 27 July 2025 =
-New: Prepare Future Support for Preleases
-New: Updated UUPD to 1.3.0
+* [New] Prepare Future Support for Preleases
+* [New] Updated UUPD to 1.3.0
 
 
 = 0.5.4 13 July 2025 =
-New: Workflow Setup Helpers in WP-Subscriptions ---> Automations
-New: Speed up Flowmattic Setup & Mapping
+* [New] Workflow Setup Helpers in WP-Subscriptions ---> Automations
+* [New] Speed up Flowmattic Setup & Mapping
 
 = 0.5.3 13 July 2025 =
-New: Third Automatic Update Test
-Tweaked: Readme File
+* [New] Third Automatic Update Test
+* [Tweaked] Readme File
 
 = 0.5.2 13 July 2025 =
-New: Second Automatic Update Test
+* [New] Second Automatic Update Test
 
 = 0.5.1 13 July 2025 =
-New: First Automatic Update Test
+* [New] First Automatic Update Test
 
 = 0.5 13 July 2025 =
-New: Alpha Testing Release
+* [New] Alpha Testing Release

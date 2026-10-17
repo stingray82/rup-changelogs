@@ -1,54 +1,54 @@
 = 2.2 (March 2026) =
-New: Bricks Conditions
+* [New] Bricks Conditions
 
 = 2.1 (November 2025) =
-Improved: Updated SDK
-Improved: Wider Support for custom post type
+* [Improved] Updated SDK
+* [Improved] Wider Support for custom post type
 
 
 = 2.0 (October 2025) =
-New: GUI
-New: All Access Support
-New: Post Filter
-New: Rewrite of Logic
-Fixed: Various Bug Fixs
+* [New] GUI
+* [New] All Access Support
+* [New] Post Filter
+* [New] Rewrite of Logic
+* [Fixed] Various Bug Fixs
 
 = 1.6 (22 July 2025) =
-Improved: Updated SDK
+* [Improved] Updated SDK
 
 = 1.5.1 (12 July 2025) =
-Fixed: occasional denied access bug
+* [Fixed] occasional denied access bug
 
 = 1.5 (20 May 2025) =
-New: Subscription Support
-New: Revoke Access Support
-New: Invoke Access Support
-Improved: With the above New Subscription Items your now fully linked to your Sure Cart interface allowing easy removal of subscription based purchases
-Fixed: Various Small Reported Bugs
+* [New] Subscription Support
+* [New] Revoke Access Support
+* [New] Invoke Access Support
+* [Improved] With the above New Subscription Items your now fully linked to your Sure Cart interface allowing easy removal of subscription based purchases
+* [Fixed] Various Small Reported Bugs
 
 = 1.41 (28 April 2025) = 
-Improved: Custom Post Field Filter, to make it better support potential post subscription
-Improved: Custom Post Type Filter, to make it better support potential post subscription
+* [Improved] Custom Post Field Filter, to make it better support potential post subscription
+* [Improved] Custom Post Type Filter, to make it better support potential post subscription
 
 
 = 1.4 (18 April 2025) = 
-New: Action Hook to allow automatic removals using automatons and WP Cron
-New: Action Hook - rup_sell_ind_posts_access_granted [$user_id, $post_id, $order_id, $price_id]
+* [New] Action Hook to allow automatic removals using automatons and WP Cron
+* [New] Action Hook - rup_sell_ind_posts_access_granted [$user_id, $post_id, $order_id, $price_id]
 
 = 1.3 (4 April 2025) = 
-New: Post Type Filter
-New: Support for Custom Post Types
-Improved: Default Now Pages and Posts not just posts
+* [New] Post Type Filter
+* [New] Support for Custom Post Types
+* [Improved] Default Now Pages and Posts not just posts
 
 = 1.22 (27 March 2025) =
-Fixed: Incorrect file reference
-Improved: CSS filtering
+* [Fixed] Incorrect file reference
+* [Improved] CSS filtering
 
 = 1.21 (18 March 2025) =
-Updated: Tidying Shared Functions with other RUP Plugins
+* [Updated] Tidying Shared Functions with other RUP Plugins
 
 = 1.2 (7 March 2025) =
-Fixed: Update Manager Fixes
+* [Fixed] Update Manager Fixes
 
 = 1.19 (1 March 2025) =
-New: Initial Plugin Release
+* [New] Initial Plugin Release

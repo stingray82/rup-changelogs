@@ -1,13 +1,13 @@
 = 1.0.3 16 October 2026 =
-Updated: UUPD Dependency Updated to Version 2.1 Stable
-Updated: Deploy Methodology
+* [Updated] UUPD Dependency Updated to Version 2.1 Stable
+* [Updated] Deploy Methodology
 
 = 1.0.2 24 July 2026 =
-Updated: UUPD Dependency Updated to Version 2.0 Stable
+* [Updated] UUPD Dependency Updated to Version 2.0 Stable
 
 = 1.0.1 23 March 2026 =
-Update: Updater to 2.0-Alpha
-Update: Compatibility
+* [Update] Updater to 2.0-Alpha
+* [Update] Compatibility
 
 = 1.0.0 04 September 2025 =
-New: Initial Release
+* [New] Initial Release
