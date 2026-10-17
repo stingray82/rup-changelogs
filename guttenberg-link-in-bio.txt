@@ -1,21 +1,21 @@
 = 1.0.2 16 October 2026 =
-Updated: UUPD Dependency Updated to Version 2.1 Stable
-Updated: Deploy Methodology
+* [Updated] UUPD Dependency Updated to Version 2.1 Stable
+* [Updated] Deploy Methodology
 
 = 1.0.1 July 2026 =
-Updated: UUPD Dependency Updated to Version 2.0 Stable
+* [Updated] UUPD Dependency Updated to Version 2.0 Stable
 
 = 1.0.0 May 2026 =
-Info: Initial public release.
-New: Gutenberg block suite
-New: Link page wrapper
-New: Section support
-New: Button support
-New: Social icon support
-New: Full-page background support
-New: FSE compatibility improvements
-New: Responsive typography controls
-New: Responsive alignment controls
-New: Layout presets
-New: Button style presets
-New: Editor-safe link handling
+* [Changed] Initial public release.
+* [New] Gutenberg block suite
+* [New] Link page wrapper
+* [New] Section support
+* [New] Button support
+* [New] Social icon support
+* [New] Full-page background support
+* [New] FSE compatibility improvements
+* [New] Responsive typography controls
+* [New] Responsive alignment controls
+* [New] Layout presets
+* [New] Button style presets
+* [New] Editor-safe link handling
