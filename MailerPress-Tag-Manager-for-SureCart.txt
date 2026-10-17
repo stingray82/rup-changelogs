@@ -1,0 +1,25 @@
+= 1.1.2 17 October 2026 =
+* [Fixed] Removed the unwanted blank New mapping row created when opening the mapper
+* [Improved] Add Mapping buttons now create an expanded row only when requested
+* [Improved] Automatically scroll to a new mapping and focus its product selector
+* [Fixed] Clear active search and filters when adding a mapping so it remains visible
+* [Fixed] Prevent unsaved mapping row indices from colliding after deletion
+
+= 1.1.1 16 October 2026 =
+* [Fixed] Restored vertical scrolling on the CRM Tag Mapper admin screen with page-scoped overflow rules
+* [Improved] Retained the compact mapping interface without restricting the page height
+
+= 1.1.0 15 October 2026 =
+* [Improved] Existing product and price mappings now start collapsed for easier navigation
+* [New] Compact mapping summaries show product, price or version, selected MailerPress tags and mapping status
+* [Improved] Expand individual mappings to edit their settings
+* [Improved] New mapping forms open expanded while existing mappings remain collapsed
+
+= 1.0.0 15 October 2026 =
+* [New] Initial MailerPress integration for the SureCart CRM Tag Mapper
+* [New] Map SureCart products or individual prices to multiple MailerPress tags
+* [New] Automatically apply mapped tags following supported SureCart purchase events
+* [New] WordPress admin interface for managing and enabling product and price mappings
+* [New] Global and per-mapping double opt-in settings for new contacts
+* [Improved] Preserve existing MailerPress subscription statuses and previously assigned tags
+* [Info] New contacts created through purchase tagging are not automatically treated as subscribed without confirmation

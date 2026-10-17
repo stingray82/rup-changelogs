@@ -1,0 +1,32 @@
+= 1.2.3 17 October 2026 =
+* [Fixed] Constrained the Really Useful Plugins header logo to 190px in saved newsletter archive content
+* [Removed] Removed the outdated MailerHive and FluentCRM plugin warning from the archive administration screen
+* [Improved] Retained the HTML cleanup and archive resync repair introduced in 1.2.2
+
+= 1.2.2 17 October 2026 =
+* [Fixed] Removed exposed email stylesheet and document head content from archived MailerPress newsletters
+* [Improved] Preserve safe inline email formatting, images, tables and buttons for web archive display
+* [Fixed] Existing archive posts can now have their content regenerated when a campaign is resynced
+* [New] Save a backup of the previous archive content before replacing it during repair
+
+= 1.2.1 17 October 2026 =
+* [Fixed] Prevent deleted campaign streams from being automatically recreated
+* [Removed] Removed hardcoded UUPD and Response default streams
+* [Improved] Manage campaign streams entirely through the WordPress taxonomy interface
+
+= 1.2.0 17 October 2026 =
+* [New] Added MailerPress signup tag selection to campaign stream settings
+* [New] Added stream name or slug lookup for FlowMattic using rup_get_mailerpress_tag_from_stream()
+* [Improved] Return configured MailerPress tag IDs and readable mapping errors for subscription workflows
+* [Removed] Removed the historical archive migration and restore utilities
+
+= 1.1.0 17 October 2026 =
+* [New] Added a restore utility for campaign archive posts previously converted to MailerHive issues
+* [Improved] Preserved original archive post IDs, slugs, content and stream associations during restoration
+
+= 1.0.0 17 October 2026 =
+* [New] Initial MailerPress campaign archiving using the existing fc_campaign_archive post type and fc_campaign_stream taxonomy
+* [New] Select sent campaigns for archiving and assign newsletter streams from WordPress administration
+* [New] Synchronise archived campaign content and retain existing campaign archive URLs
+* [New] Store available MailerPress audience targeting information for archived newsletters
+* [New] Support Bricks archive templates and stream information helpers

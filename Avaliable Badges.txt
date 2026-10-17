@@ -1,0 +1,17 @@
+New
+
+Improved
+
+Fixed
+
+Removed
+
+Deprecated
+
+Security
+
+Breaking
+
+Warning
+Experimental
+Info
