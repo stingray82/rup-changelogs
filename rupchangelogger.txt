@@ -1,3 +1,9 @@
+
+2.0.3 
+
+= 2.0.3 17 October 2026 =
+* [Fixed]: Plain text changelogs now accept both legacy Type:  entries and bulleted * [Type] or * Type: entries.
+
 = 2.0.2 16 October 2026 =
 * [Updated] UUPD Dependency Updated to Version 2.1 Stable
 * [Updated] Deploy Methodology
