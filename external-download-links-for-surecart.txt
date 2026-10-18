@@ -1,3 +1,11 @@
+= 1.1.7 (October 2026) =
+* Updated: SureCart SDK 1.2.2
+* Fixed: SDK Bug on Implementation on 1.1.6 this is a breaking change to the SDK and was causing some issues with licencing and updates if you are experiencing this downloading and replacing the plugin will fix it
+* Experimental: New WPCONFIG Constant define( 'RUPEDL4SC_LICENSE_KEY', 'Your-Licence-Key-Here' );
+
+= 1.1.6 (October 2026) =
+* Changed Deployment Methods
+
 = 1.1.5 (March 2025) =
 * [Fix] Link Issue
 
