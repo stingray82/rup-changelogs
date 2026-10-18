@@ -1,3 +1,9 @@
+= 1.1.4 18 October 2026 =
+* [Experimental] First Update Test
+
+= 1.1.3 18 October 2026 =
+* [New] Add Automatic Update Support using UUPD
+
 = 1.1.2 17 October 2026 =
 * [Fixed] Removed the unwanted blank New mapping row created when opening the mapper
 * [Improved] Add Mapping buttons now create an expanded row only when requested
