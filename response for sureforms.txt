@@ -1,3 +1,23 @@
+= 1.2.2 (21 October 2026) =
+* [Fix] Fixed SureForms custom post type lookup to restore form mappings.
+* [Fix] Fixed form selection dropdown not displaying existing SureForms forms.
+* [Fix] Fixed Save Mapping button remaining disabled.
+* [Fix] Corrected webhook URL validation and mapping saving.
+* [Fix] Improved form ID recognition and webhook delivery after successful submissions.
+* [Improved] Improved existing mapping display and validation.
+* [Improved] Added security checks for mapping management.
+* [Improved] Enhanced compatibility with the latest SureForms release.
+
+= 1.2 (22 July 2025) =
+* [Improved] Updated SDK
+
+= 1.1.2 (19 March 2025) =
+* [Fix] Latest SureForms Release Bug
+
+
+= 1.2.1 (22 August 2026) =
+* [Improved] Updated SDK
+
 = 1.2 (22 July 2025) =
 * [Improved] Updated SDK
 
